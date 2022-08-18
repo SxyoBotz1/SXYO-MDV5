@@ -50,18 +50,18 @@ global.ppulsa2 = 'Gbutuh' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285700980048' //Nomor Bot mu
-global.nomorown = '62895700121662' //Nomormu
-global.namebot = 'PsycoBot' //Nama bot mu
-global.nameown = 'MzBgus' //Nama mu
+global.nomorbot = '6289529168623' //Nomor Bot mu
+global.nomorown = '6287784720840' //Nomormu
+global.namebot = 'Shikimori san' //Nama bot mu
+global.nameown = 'Fiqzcuy' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6289570121662'], //Owner1
-  ['62895700121662'], //Owner2
-  ['62895700121662'], //Owner3
-  ['62895700121662', 'BAGUS OFC ! 🥶', true] //Ini buat kamu!
+  ['6287784720840'], //Owner1
+  ['6287784720840'], //Owner2
+  ['6287784720840'], //Owner3
+  ['6287784720840', 'Fiqzcuy', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -110,8 +110,8 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Psyco Bot⁩இ 」' //Wm
-global.wm2 = '➳༻❀Psyco - Bot❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm = '                「 Shikimori San⁩இ 」' //Wm
+global.wm2 = '➳༻❀Shikimori San❁ུ۪۪.;:୭̥.' //Name Wm
 global.wm3 = '⫹⫺ Kontol'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
