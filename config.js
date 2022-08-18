@@ -35,10 +35,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/jjkaja?igshid=YMyMTA2M2Y=' //Instagram mu
+global.sig = 'https://instagram.com/jj' //Instagram mu
 global.sgh = 'https://github.com/IndraaXD' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7uHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxnMutPFCBWg' //Discord Mu
+global.sgc = 'https://chat.whatsapp.com/' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/channel/' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
@@ -47,7 +47,7 @@ global.povo = 'Gausah' //Ovo
 global.pgopay = 'G Butuh' //Gopay
 global.ppulsa = 'G butuh' //Pulsa 
 global.ppulsa2 = 'Gbutuh' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
+global.psaweria = 'https://saweria.co/' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
 global.nomorbot = '6289529168623' //Nomor Bot mu
